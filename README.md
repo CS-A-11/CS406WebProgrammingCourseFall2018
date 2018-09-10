@@ -1,10 +1,10 @@
 # CS406 Web Programming Course Fall 2018
 
-# Welcome ! :grinning: /play sax
+# Welcome ! :grinning: 
 
 This repo contains all the lectures and relevant content for the course 
 
-#FAQs :gem:
+## FAQs :gem:
 
 1. How to prepare for the quiz?
 
