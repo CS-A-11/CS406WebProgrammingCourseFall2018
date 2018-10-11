@@ -15,23 +15,24 @@ This repo contains all the lectures and relevant content for the course
 9. Introducing MEAN full stack development
 10. Basic Node and Express setup
 11. Building a static site with Node and Express
-12. Building a data model with MongoDB and Mongoose
-13. Writing a REST API
-14. Consuming a REST API
-15. Authenticating users, managing sessions
-16. Angular vs React
-17. Adding Angular components to an Express application
-18. Unit Testing 
-19. XML, AJAX
-20. Responsive design - Bootstrap
-21. Guest lecture
-22. Performance and scalability issues
-23. Prevention from Sql Injection and cross-site attacks
-24. Web Services
-25. Search Technologies
-26. Trends and Future Directions
-27. Project Presentations
-28. Course Wrap Up
+12. Building a data model with MongoDB and Mongoose Part 1
+13. Building a data model with MongoDB and Mongoose Part 2
+14. Writing a REST API
+15. Consuming a REST API
+16. Authenticating users, managing sessions
+17. Angular vs React
+18. Adding Angular components to an Express application
+19. Unit Testing 
+20. XML, AJAX
+21. Responsive design - Bootstrap
+22. Guest lecture
+23. Performance and scalability issues
+24. Prevention from Sql Injection and cross-site attacks
+25. Web Services
+26. Search Technologies
+27. Trends and Future Directions
+28. Project Presentations
+29. Course Wrap Up
 
 
 ## FAQs :gem:
