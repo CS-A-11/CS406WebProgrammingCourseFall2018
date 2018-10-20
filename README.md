@@ -1,6 +1,6 @@
 # CS406 Web Programming Course Fall 2018
 
-# Welcome ! :smile: 
+# Welcome ! :blush: 
 
 This repo contains all the lectures and relevant content for the course 
 ## Course Outline
