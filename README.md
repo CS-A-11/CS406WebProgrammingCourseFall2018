@@ -1,6 +1,6 @@
 # CS406 Web Programming Course Fall 2018
 
-# Welcome ! :grinning: 
+# Welcome ! :blush: 
 
 This repo contains all the lectures and relevant content for the course 
 ## Course Outline
@@ -17,22 +17,23 @@ This repo contains all the lectures and relevant content for the course
 11. Building a static site with Node and Express
 12. Building a data model with MongoDB and Mongoose Part 1
 13. Building a data model with MongoDB and Mongoose Part 2
-14. Writing a REST API
-15. Consuming a REST API
-16. Authenticating users, managing sessions
-17. Angular vs React
-18. Adding Angular components to an Express application
-19. Unit Testing 
-20. XML, AJAX
-21. Responsive design - Bootstrap
-22. Guest lecture
-23. Performance and scalability issues
-24. Prevention from Sql Injection and cross-site attacks
+14. Writing a REST API Part 1
+15. Writing a REST API Part 2
+16. Consuming a REST API
+17. Adding Angular components to an Express application
+18. Building an SPA with Angular
+19. Authenticating users, managing sessions
+20. Securing APIs
+21. XML, AJAX
+22. Responsive design - Bootstrap
+23. Guest lecture
+24. Performance and scalability issues
 25. Web Services
 26. Search Technologies
 27. Trends and Future Directions
 28. Project Presentations
-29. Course Wrap Up
+29. Project Presentations
+30. Course Wrap Up
 
 
 ## FAQs :gem:
