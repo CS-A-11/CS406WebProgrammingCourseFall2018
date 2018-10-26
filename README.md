@@ -20,13 +20,13 @@ This repo contains all the lectures and relevant content for the course
 14. Writing a REST API Part 1
 15. Writing a REST API Part 2
 16. Consuming a REST API
-17. Adding Angular components to an Express application
-18. Building an SPA with Angular
-19. Authenticating users, managing sessions
-20. Securing APIs
-21. XML, AJAX
-22. Responsive design - Bootstrap
-23. Guest lecture
+17. Introducing Angular
+18. Adding Angular components to an Express application
+19. Building an SPA with Angular
+20. Authenticating users, managing sessions
+21. Securing APIs
+22. XML, AJAX
+23. Responsive design - Bootstrap
 24. Performance and scalability issues
 25. Web Services
 26. Search Technologies
