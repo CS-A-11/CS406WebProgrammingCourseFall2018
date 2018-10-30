@@ -22,18 +22,18 @@ This repo contains all the lectures and relevant content for the course
 16. Consuming a REST API
 17. Introducing Angular
 18. Adding Angular components to an Express application
-19. Building an SPA with Angular
-20. Authenticating users, managing sessions
-21. Securing APIs
-22. XML, AJAX
-23. Responsive design - Bootstrap
-24. Performance and scalability issues
-25. Web Services
-26. Search Technologies
-27. Trends and Future Directions
-28. Project Presentations
-29. Project Presentations
-30. Course Wrap Up
+19. Authenticating users, managing sessions
+20. XML, AJAX
+21. Performance and scalability issues
+22. Web Services
+23. Search Technologies
+24. Trends and Future Directions
+25. Responsive design - Bootstrap
+26. Project Presentations
+27. Project Presentations
+28. Course Wrap Up
+29. -
+30. -
 
 
 ## FAQs :gem:
