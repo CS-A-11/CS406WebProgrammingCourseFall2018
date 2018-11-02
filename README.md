@@ -21,17 +21,17 @@ This repo contains all the lectures and relevant content for the course
 15. Writing a REST API Part 2
 16. Consuming a REST API
 17. Introducing Angular
-18. Adding Angular components to an Express application
+18. Project Vivas
 19. Authenticating users, managing sessions
-20. XML, AJAX
-21. Performance and scalability issues
+20. Angular - Tour of Heroes
+21. XML
 22. Web Services
 23. Search Technologies
 24. Trends and Future Directions
-25. Responsive design - Bootstrap
+25. Course wrap up
 26. Project Presentations
 27. Project Presentations
-28. Course Wrap Up
+28. Project Presentations
 29. -
 30. -
 
