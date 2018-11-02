@@ -23,8 +23,8 @@ This repo contains all the lectures and relevant content for the course
 17. Introducing Angular
 18. Project Vivas
 19. Authenticating users, managing sessions
-20. Angular - Tour of Heroes
-21. XML
+20. XML 1
+21. XML 2
 22. Web Services
 23. Search Technologies
 24. Trends and Future Directions
