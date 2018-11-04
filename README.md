@@ -32,8 +32,8 @@ This repo contains all the lectures and relevant content for the course
 26. Project Presentations
 27. Project Presentations
 28. Project Presentations
-29. -
-30. -
+29. n/a
+30. n/a
 
 
 ## FAQs :gem:
