@@ -20,17 +20,17 @@ This repo contains all the lectures and relevant content for the course
 14. Writing a REST API Part 1
 15. Writing a REST API Part 2
 16. Consuming a REST API
-17. Introducing Angular
+17. Introducing AngularJS
 18. Project Vivas
 19. Authenticating users, managing sessions
-20. XML 1
-21. XML 2
-22. Web Services
+20. XML
+21. AJAX
+22. AJAX
 23. Search Technologies
 24. Trends and Future Directions
-25. Course wrap up
-26. Project Presentations
-27. Project Presentations
+25. SPA 1
+26. SPA 2
+27. Session Management
 28. Project Presentations
 29. n/a
 30. n/a
