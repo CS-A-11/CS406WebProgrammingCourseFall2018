@@ -115,7 +115,7 @@ Also, you will need to run the following commands in the terminal:
 npm install ejs --save
 npm install path --save
 
-### What if we want to update only some of the data in an update operation? Will PUT work?
+### 9. What if we want to update only some of the data in an update operation? Will PUT work?
 
 Please refer to this link for explanation and usage of PATCH request method. 
 https://restfulapi.net/http-methods/
@@ -125,8 +125,11 @@ The PUT request method will work fine but the choice of using a PATCH method ove
 ### References
 
 Loc8r Case Study Code Repo https://github.com/simonholmes/getting-MEAN
+
 JavaScript IIFE(Immediately Invoked Function Expression) https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose
+
 Mongose documentation https://mongoosejs.com/docs/guides.htm 
  
  
