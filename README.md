@@ -75,4 +75,48 @@ The paper will be simply a case study. You will be given a scenario and for that
 
 You current case study Loc8r supports user requests like listing all locations and being able to view a location detail etc. What if a user wanted to search for locations by providing the location name and/or rating in a search form. How would you handle that request? Currently your home page displays only a list of locations. What if I wanted to display a list of reviewers on the home page too?
 
+### 6. Is cheat sheet allowed in the exam?
 
+No
+
+### 7. How do I setup MongoDB?
+
+For windows users, its quite simple. You need to download and install MongoDB server https://www.mongodb.com/download-center/v2/community and this will also install MongoDBCompass. Go to Windows Services and start the MongoDB service. In MongoDB compass, provide the hostname and port values (input the same ones as suggested in the textbox) and click the green Connect button at the bottom. 
+
+### 8. Can I use HTML files instead of PUG?
+
+If you want to convert HTML code to PUG, use :
+https://html2jade.org/
+
+If you still want to use HTML instead of PUG, then how do you display the data in HTML passed from the controller?
+
+For Example in the controller you wrote:
+'''
+res.render("index", { title: "Express" });
+'''
+
+Then in the index.html you will write:
+'''
+<h1><%= title %></h1>
+'''
+Also, in the app.js file you will need to make some changes:
+Change the line 
+'''
+app.set("view engine", "pug");
+'''
+to
+'''
+app.engine("html", require("ejs").renderFile);
+app.set("view engine", "html");
+'''
+because now our view engine is html, not pug
+Also, you will need to run the following commands in the terminal:
+
+npm install ejs --save
+npm install path --save
+
+### References
+
+ JavaScript IIFE(Immediately Invoked Function Expression) https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+ 
+ 
