@@ -91,24 +91,24 @@ https://html2jade.org/
 If you still want to use HTML instead of PUG, then how do you display the data in HTML passed from the controller?
 
 For Example in the controller you wrote:
-'''
+```
 res.render("index", { title: "Express" });
-'''
+```
 
 Then in the index.html you will write:
-'''
+```
 <h1><%= title %></h1>
-'''
+```
 Also, in the app.js file you will need to make some changes:
 Change the line 
-'''
+```
 app.set("view engine", "pug");
-'''
+```
 to
-'''
+```
 app.engine("html", require("ejs").renderFile);
 app.set("view engine", "html");
-'''
+```
 because now our view engine is html, not pug
 Also, you will need to run the following commands in the terminal:
 
