@@ -42,11 +42,11 @@ This repo contains all the lectures and relevant content for the course
 
 Read the slides and references thoroughly. Quiz will be MCQ based.
 
-2. What will come in the exam?
+### 2. What will come in the exam?
 
 The contents of slides and provided references and code files are sufficient to prepare for the exam. If you are clever, you will search google for "HTML exam questions" etc. to get an idea. 
 
-3. app_api or app_server?
+### 3. app_api or app_server?
 
 This is an architectural question. Even without app_api we were following MVC and the views, models and controllers all resided in the app_server folder.
 
@@ -61,7 +61,7 @@ For example, I ask you to build an API for movies, you will just write the middl
 
 In the exam, it is recommended to follow simple MVC without the app_api folder.
 
-4. I am geting an error and I don't know what's wrong?
+### 4. I am geting an error and I don't know what's wrong?
 
 Some of you told me about getting errors for which you were not able to figure out the cause. As in every programming language, the compiler throws errors when things are wrong, and thankfully God gave developers the good sense to make and use a debugger :) 
 
@@ -69,7 +69,7 @@ As in every IDE, VS Code also has a debugger. Please watch this 8 minute video h
 
 When an error occurs, VSCode reports the name of the file and the exact line number. I would suggest adding a breakpoint around that line to figure out whats wrong. Sometimes the reason is that some variables are not initialized and undefined. You can easily watch the data in your variables in debug mode. Desi way is it console log everything but we should use tools right? :)
 
-5. What will be the paper pattern for sessional 2?
+### 5. What will be the paper pattern for sessional 2?
 
 The paper will be simply a case study. You will be given a scenario and for that you have to write the code to implement the back-end logic that addresses the user requests for that scenario.
 
