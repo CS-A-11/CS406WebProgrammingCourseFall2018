@@ -38,7 +38,7 @@ This repo contains all the lectures and relevant content for the course
 
 ## FAQs :gem:
 
-1. How to prepare for the quiz?
+### 1. How to prepare for the quiz?
 
 Read the slides and references thoroughly. Quiz will be MCQ based.
 
