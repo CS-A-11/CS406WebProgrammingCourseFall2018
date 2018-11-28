@@ -27,7 +27,7 @@ This repo contains all the lectures and relevant content for the course
 21. AJAX
 22. AJAX
 23. Search Technologies
-24. Trends and Future Directions
+24. Adding AngularJS components to an Express application
 25. SPA 1
 26. SPA 2
 27. Session Management
