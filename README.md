@@ -30,8 +30,8 @@ This repo contains all the lectures and relevant content for the course
 24. Adding AngularJS components to an Express application
 25. SPA 1
 26. SPA 2
-27. Session Management
-28. Project Presentations
+27. SPA 3
+28. Project Evaluations
 29. n/a
 30. n/a
 
